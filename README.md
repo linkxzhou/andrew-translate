@@ -6,7 +6,8 @@ Andrew Ng translation-agent style three-step translation skill: **initial transl
 
 ## Install / 安装
 
-SkillHub: https://skillhub.cn/skills/user_16e7431e/andrew-translate
+- ClawHub: https://clawhub.ai/linkxzhou/andrew-translate
+- SkillHub: https://skillhub.cn/skills/user_16e7431e/andrew-translate
 
 ## Structure / 结构
 
